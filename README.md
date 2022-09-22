@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Mostly important
+
+### Use npm install to install all dependencies and node_modules, react-icon was used also, incase youre copying and pasting your node modules, install the react-icon only then
+
 ## Available Scripts
 
 In the project directory, you can run:
