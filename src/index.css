@@ -1,0 +1,136 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+@media screen and (min-width:676px) {
+    body {
+        margin-left: 5rem;
+        margin-right: 5rem;
+    }
+    .navbar {
+        padding-left: 20rem;
+    }
+    
+}
+@media screen and (min-width: 990px) {
+    body {
+        margin-left: 10rem;
+        margin-right: 10rem;
+    }
+    
+}
+@media screen and (min-width: 1400px) {
+    body {
+        margin-left: 32rem;
+        margin-right: 32rem;
+    }
+    
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #F55A5A;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+    height: 55px;
+    padding-left: 12rem;
+    margin-bottom: 2.5rem;
+}
+.navbar-logo{
+    font-size: 1.6rem;
+    padding-top: 0.45rem;
+    padding-right: 5px;
+}
+.navbar-text {
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14.4608px;
+        line-height: 18px;
+        letter-spacing: -0.075em;
+    
+        color: #FFFFFF;
+}
+.content {
+    display: flex;
+    align-items: center;
+    margin: 0px 1.7rem;
+    padding-bottom: 30px;
+
+}
+.location-details{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+    margin: 0;
+    padding: 0;
+}
+.location-full-content {
+    margin-left: 25px;
+}
+.location-content {
+
+}
+.content--image{
+
+}
+.location-icon{
+    color: #F55A5A;
+    font-size: 0.6rem;
+
+}
+.location-country{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+    color: #2B283A;
+    padding-right: 10px;
+
+}
+.location-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 0;
+    color: #2B283A;
+
+}
+.location-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    /* identical to box height */
+
+    text-decoration-line: underline;
+
+    color: #918E9B;
+
+}
+.location-date{
+    margin: 0;
+    padding-top: 10px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+
+    color: #2B283A;
+
+}
+.travel-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    color: #2B283A;
+    padding-bottom: 10px;
+    margin: 0;
+    padding-top: 5px;
+
+}
