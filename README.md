@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Mostly important
 
-### Use npm install to install all dependencies and node_modules, react-icon was used also, incase youre copying and pasting your node modules, install the react-icon only then
+### Use npm install to install all dependencies and node_modules, react-icon was used also, incase you're copying and pasting your node modules, install the react-icon only then.
 
 ## Available Scripts
 
